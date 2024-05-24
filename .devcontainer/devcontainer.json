@@ -1,0 +1,4 @@
+{
+    "postCreateCommand": "code --install-extension ms-python.python",
+    "image": "ubuntu:20.04"  
+}
